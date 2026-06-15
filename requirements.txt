@@ -1,6 +1,0 @@
-gymnasium[classic_control]
-numpy
-matplotlib
-streamlit
-pandas
-pygame
